@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
 #include<fstream>
-#include<iomanip>
+
 #define vi vector<int>
 
 using namespace std;
